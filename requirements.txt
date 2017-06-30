@@ -6,3 +6,5 @@ whitenoise==2.0.6
 requests==2.9.2
 numpy
 pandas
+matplotlib
+lxml
